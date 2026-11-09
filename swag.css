@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+html {
+    font-family: "Outfit";
+    background-color: aquamarine;
+    color: blue;
+}
+
+body {
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    width: fit-content;
+}
+
+p {
+    text-align: center;
+    width: 50dvw;
+}
